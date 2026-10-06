@@ -46,3 +46,6 @@ php artisan serve
 
 ## توسعه‌دهنده
 علیرضا فقیریان
+## 📄 License
+
+MIT License
