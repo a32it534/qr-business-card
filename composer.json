@@ -1,0 +1,9 @@
+{
+  "name":"a32it534/qr-business-card",
+  "type":"project",
+  "description":"QR Business Digital Card - Persian RTL Laravel application",
+  "require":{"php":"^8.2","laravel/framework":"^12.0","endroid/qr-code":"^6.0"},
+  "autoload":{"psr-4":{"App\\":"app/","Database\\Factories\\":"database/factories/","Database\\Seeders\\":"database/seeders/"}},
+  "scripts":{"post-autoload-dump":["@php artisan package:discover --ansi"]},
+  "minimum-stability":"stable","prefer-stable":true
+}
